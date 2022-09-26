@@ -1,7 +1,7 @@
 <?php
 $is_auth = (bool) rand(0, 1);
 
-$user_name = '';
+$user_name = '1';
 $user_avatar = 'img/user.jpg';
 ?>
 <!DOCTYPE html>
